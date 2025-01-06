@@ -1,7 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=e6dc2e&lines=Hi,+I'm+Sozin+:Dev)](https://git.io/typing-svg)
 
 <p align="center">
-  I'm a {backend, frontend} developer, currently studying programming and eager to expand and deepen my knowledge in the field.
+  I'm a {javascript, csharp and apprentice html and css} developer, currently studying programming and eager to expand and deepen my knowledge in the field.
 </p>
 
 <p align="center">
