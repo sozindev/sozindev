@@ -1,16 +1,26 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Sozin+Dev)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=e6dc2e&lines=Hi,+I'm+Sozin+:Dev)](https://git.io/typing-svg)
 
-<!--
-**sozindev/sozindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I'm a {backend, frontend} developer, currently studying programming and eager to expand and deepen my knowledge in the field.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sozindev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <img src="https://discord-arts.asure.dev/card/1325646730909192304?badgesFrame=true" alt="Discord" width="600" height="200" />
+</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=sozindev&show_icons=true&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true" alt="Sozin's GitHub Stats" />
+      </td>
+      <td>
+        <img width="200%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sozindev&theme=dark&hide_border=true&layout=compact&langs_count=7" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
